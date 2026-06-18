@@ -1,6 +1,10 @@
 # Python Snake Game
 Classic Snake Game built using Python and Turtle Graphics
 
+## Screenshot
+
+![Snake Game](images/screenshot.png)
+
 ## Features
 - Snake movement
 - Food spawning
