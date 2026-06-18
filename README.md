@@ -2,7 +2,7 @@
 Classic Snake Game built using Python and Turtle Graphics
 
 ## Screenshot
-![Snake Game](images/screenshot.png)
+![Snake Game](images/Screenshot.png)
 
 
 ## Features
